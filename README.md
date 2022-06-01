@@ -1,5 +1,4 @@
 # Match3
-This is my version of match-3 game using MonoGame
 ![](Content/Images/image.PNG)
 # Installation
 If you want to copy this project to your local one, you have to do the following steps:
